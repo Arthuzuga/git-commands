@@ -1,5 +1,6 @@
- #Comandos Úteis de GIT
+<img src="../img/git.png" width="70" align="right">
 
+#Comandos Úteis de GIT
 
 ##Sobre
 >Você começou recentemente a usar o GIT? Isso deve lhe dar os comandos básicos que você  precisa para executar a maioria das ações no git. Se você encontrar um comando que não está aqui, ou que poderia ser explicada melhor, por favor não hesite em contribuir.
