@@ -1,3 +1,4 @@
+[![Idioma Português Brasileiro](/img/pt-br.jpg)](/pt-br/README.md)
 <img
   src="/img/git.png"
   width="70"
@@ -392,7 +393,3 @@ lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request - cheers!
-
-
-### Language:
-[![Idioma Português Brasileiro](/img/pt-br.jpg)](/pt-br/README.md)
